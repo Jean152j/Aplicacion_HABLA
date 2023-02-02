@@ -1,1 +1,2 @@
 # Aplicacion_HABLA
+Esta es una aplicación móvil para dispositivos con sistema Android el cual les permite a los niños aprender acerca de las vocales, consonantes y leer ciertos pictogramas que aporta en su desarrollo durante sus primeros años de vida y aumentar sus capacidades linguísticas. 
